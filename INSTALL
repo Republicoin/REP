@@ -1,0 +1,9 @@
+Building Republicoin
+
+See doc/readme-qt.rst for instructions on building Republicoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Republicoin.
+
+See doc/build-*.txt for instructions on building republicoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Republicoin.
